@@ -1,0 +1,18 @@
+
+TITANIC EDA - KEY INSIGHTS
+==================================================
+
+OVERALL: 38.4% survival (342 of 891)
+
+1. GENDER: Women (74.2%) vs Men (18.9%)
+   → Women were 3.9x more likely to survive
+
+2. CLASS: 1st (63.0%) vs 3rd (24.2%)
+   → 1st class had 2.6x higher survival
+
+3. AGE: Children (58.0%) vs Seniors (22.7%)
+   → Children survived best, seniors worst
+
+4. MOST VULNERABLE: Men in 3rd class (~13% survival)
+
+==================================================
